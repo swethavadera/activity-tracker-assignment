@@ -1,0 +1,25 @@
+.users-list-container {
+  height: 70% !important ;
+  width: 30%;
+  background-color: rgb(177, 246, 248);
+  margin: 50px;
+  margin-left: 10%;
+  border-radius: 3%;
+  border: 5px rgb(230, 228, 228);
+    border: 5px rgb(196, 248, 248);
+
+}
+
+.list-group {
+  padding-top: 5% !important;
+}
+  ul.list-group > li.list-group-item {
+  margin-bottom: 2px !important;
+  margin-left: 40px !important;
+  margin-right: 40px !important;
+  text-align: center !important;
+  border-radius: 2% !important;
+  font-family: cursive !important;
+  background-color: rgb(93, 218, 176) !important;
+}
+

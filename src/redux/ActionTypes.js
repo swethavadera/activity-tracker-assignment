@@ -1,0 +1,4 @@
+export const TOKEN = {
+  SUCCESS: "TOKEN_SUCCESS",
+  FAILURE: "TOKEN_FAILURE",
+};
